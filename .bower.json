@@ -1,0 +1,14 @@
+{
+  "name": "toastr",
+  "homepage": "https://github.com/CodeSeven/toastr",
+  "version": "2.1.3",
+  "_release": "2.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.3",
+    "commit": "154358244d380445d742a3f539877a1aa7f954cf"
+  },
+  "_source": "https://github.com/CodeSeven/toastr.git",
+  "_target": "^2.1.2",
+  "_originalSource": "https://github.com/CodeSeven/toastr.git"
+}
